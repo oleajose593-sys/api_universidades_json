@@ -1,0 +1,2214 @@
+[
+    {
+        "nombre": "Benemerita Universidad Autonoma de Puebla",
+        "ciudad": "Puebla",
+        "estado": "Puebla",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Centro de Ensenanza Tecnica y Superior - CETYS Universidad",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Comercio Internacional",
+            "Maestria en Educacion"
+        ]
+    },
+    {
+        "nombre": "Centro de Estudios Superiores del Estado de Baja California Sur",
+        "ciudad": "La Paz",
+        "estado": "Baja California Sur",
+        "tipo": "Privada",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Turismo"
+        ]
+    },
+    {
+        "nombre": "Instituto Campechano",
+        "ciudad": "Campeche",
+        "estado": "Campeche",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Contaduria Publica"
+        ]
+    },
+    {
+        "nombre": "Instituto Politecnico Nacional",
+        "ciudad": "Ciudad de Mexico",
+        "estado": "Ciudad de Mexico",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Acapulco",
+        "ciudad": "Acapulco",
+        "estado": "Guerrero",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Aguascalientes",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Civil"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Campeche",
+        "ciudad": "Campeche",
+        "estado": "Campeche",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Cancun",
+        "ciudad": "Cancun",
+        "estado": "Quintana Roo",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Ciudad Victoria",
+        "ciudad": "Ciudad Victoria",
+        "estado": "Tamaulipas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Colima",
+        "ciudad": "Colima",
+        "estado": "Colima",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Cuernavaca",
+        "ciudad": "Cuernavaca",
+        "estado": "Morelos",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Culiacan",
+        "ciudad": "Culiacan",
+        "estado": "Sinaloa",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Durango",
+        "ciudad": "Durango",
+        "estado": "Durango",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Guadalajara",
+        "ciudad": "Guadalajara",
+        "estado": "Jalisco",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Hermosillo",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de La Paz",
+        "ciudad": "La Paz",
+        "estado": "Baja California Sur",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria en Pesquerias"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Leon",
+        "ciudad": "Leon",
+        "estado": "Guanajuato",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Merida",
+        "ciudad": "Merida",
+        "estado": "Yucatan",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Morelia",
+        "ciudad": "Morelia",
+        "estado": "Michoacan",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Nuevo Leon",
+        "ciudad": "Monterrey",
+        "estado": "Nuevo Leon",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Oaxaca",
+        "ciudad": "Oaxaca de Juarez",
+        "estado": "Oaxaca",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Pachuca",
+        "ciudad": "Pachuca",
+        "estado": "Hidalgo",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Civil",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Puebla",
+        "ciudad": "Puebla",
+        "estado": "Puebla",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Queretaro",
+        "ciudad": "Queretaro",
+        "estado": "Queretaro",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Saltillo",
+        "ciudad": "Saltillo",
+        "estado": "Coahuila",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de San Luis Potosi",
+        "ciudad": "San Luis Potosi",
+        "estado": "San Luis Potosi",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Tepic",
+        "ciudad": "Tepic",
+        "estado": "Nayarit",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Tijuana",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Tlaxcala",
+        "ciudad": "Tlaxcala",
+        "estado": "Tlaxcala",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Toluca",
+        "ciudad": "Toluca",
+        "estado": "Estado de Mexico",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Tuxtla Gutierrez",
+        "ciudad": "Tuxtla Gutierrez",
+        "estado": "Chiapas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Civil",
+            "Ingenieria Electronica"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Villahermosa",
+        "ciudad": "Villahermosa",
+        "estado": "Tabasco",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico de Zacatecas",
+        "ciudad": "Zacatecas",
+        "estado": "Zacatecas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Instituto Tecnologico Superior de Xalapa",
+        "ciudad": "Xalapa",
+        "estado": "Veracruz",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Tecnologico de Monterrey Campus Ciudad de Mexico",
+        "ciudad": "Ciudad de Mexico",
+        "estado": "Ciudad de Mexico",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Tecnologico de Monterrey Campus Monterrey",
+        "ciudad": "Monterrey",
+        "estado": "Nuevo Leon",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Tecnologico de Monterrey Campus Queretaro",
+        "ciudad": "Queretaro",
+        "estado": "Queretaro",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Ingenieria en Software",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad Anahuac Cancun",
+        "ciudad": "Cancun",
+        "estado": "Quintana Roo",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Anahuac Mayab",
+        "ciudad": "Merida",
+        "estado": "Yucatan",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad Anahuac Queretaro",
+        "ciudad": "Queretaro",
+        "estado": "Queretaro",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Anahuac Xalapa",
+        "ciudad": "Xalapa",
+        "estado": "Veracruz",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma Benito Juarez de Oaxaca",
+        "ciudad": "Oaxaca de Juarez",
+        "estado": "Oaxaca",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Aguascalientes",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Maestria en Administracion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Baja California - Campus Tijuana",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Civil",
+            "Ingenieria Electronica",
+            "Ingenieria Mecatronica"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Baja California Sur",
+        "ciudad": "La Paz",
+        "estado": "Baja California Sur",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Biologia Marina",
+            "Ingenieria en Pesquerias",
+            "Turismo",
+            "Ciencias Ambientales"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Campeche",
+        "ciudad": "Campeche",
+        "estado": "Campeche",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Civil",
+            "Derecho",
+            "Arquitectura"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Chiapas",
+        "ciudad": "Tuxtla Gutierrez",
+        "estado": "Chiapas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Psicologia"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Chihuahua",
+        "ciudad": "Chihuahua",
+        "estado": "Chihuahua",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Coahuila",
+        "ciudad": "Saltillo",
+        "estado": "Coahuila",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Veterinaria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Guadalajara",
+        "ciudad": "Guadalajara",
+        "estado": "Jalisco",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Guerrero Campus Acapulco",
+        "ciudad": "Acapulco",
+        "estado": "Guerrero",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Marketing",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Nayarit",
+        "ciudad": "Tepic",
+        "estado": "Nayarit",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Nuevo Leon",
+        "ciudad": "Monterrey",
+        "estado": "Nuevo Leon",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Queretaro",
+        "ciudad": "Queretaro",
+        "estado": "Queretaro",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de San Luis Potosi",
+        "ciudad": "San Luis Potosi",
+        "estado": "San Luis Potosi",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Sinaloa",
+        "ciudad": "Culiacan",
+        "estado": "Sinaloa",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Tamaulipas",
+        "ciudad": "Ciudad Victoria",
+        "estado": "Tamaulipas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Tlaxcala",
+        "ciudad": "Tlaxcala",
+        "estado": "Tlaxcala",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Yucatan",
+        "ciudad": "Merida",
+        "estado": "Yucatan",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma de Zacatecas",
+        "ciudad": "Zacatecas",
+        "estado": "Zacatecas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma del Estado de Hidalgo",
+        "ciudad": "Pachuca",
+        "estado": "Hidalgo",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma del Estado de Mexico",
+        "ciudad": "Toluca",
+        "estado": "Estado de Mexico",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma del Estado de Morelos",
+        "ciudad": "Cuernavaca",
+        "estado": "Morelos",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Autonoma Metropolitana",
+        "ciudad": "Ciudad de Mexico",
+        "estado": "Ciudad de Mexico",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Cuauhtemoc Aguascalientes",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Contaduria Publica",
+            "Arquitectura"
+        ]
+    },
+    {
+        "nombre": "Universidad de Ciencias y Artes de Chiapas",
+        "ciudad": "Tuxtla Gutierrez",
+        "estado": "Chiapas",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Psicologia"
+        ]
+    },
+    {
+        "nombre": "Universidad de Colima",
+        "ciudad": "Colima",
+        "estado": "Colima",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Marketing",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad de Guadalajara",
+        "ciudad": "Guadalajara",
+        "estado": "Jalisco",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad de Guanajuato Campus Leon",
+        "ciudad": "Leon",
+        "estado": "Guanajuato",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Veterinaria",
+            "Marketing",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad de la Vera Cruz Zacatecas",
+        "ciudad": "Zacatecas",
+        "estado": "Zacatecas",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad de las Americas Puebla",
+        "ciudad": "Puebla",
+        "estado": "Puebla",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Ingenieria en Software",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad de Monterrey",
+        "ciudad": "Monterrey",
+        "estado": "Nuevo Leon",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad de Occidente",
+        "ciudad": "Culiacan",
+        "estado": "Sinaloa",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad de Sonora",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Caribe",
+        "ciudad": "Cancun",
+        "estado": "Quintana Roo",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Turismo",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Atemajac",
+        "ciudad": "Guadalajara",
+        "estado": "Jalisco",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus Chihuahua",
+        "ciudad": "Chihuahua",
+        "estado": "Chihuahua",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus Ciudad Victoria",
+        "ciudad": "Ciudad Victoria",
+        "estado": "Tamaulipas",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus Hermosillo",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus San Luis Potosi",
+        "ciudad": "San Luis Potosi",
+        "estado": "San Luis Potosi",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Ingenieria en Software",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus Toluca",
+        "ciudad": "Toluca",
+        "estado": "Estado de Mexico",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus Villahermosa",
+        "ciudad": "Villahermosa",
+        "estado": "Tabasco",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Mexico Campus Xalapa",
+        "ciudad": "Xalapa",
+        "estado": "Veracruz",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad del Valle de Tlaxcala",
+        "ciudad": "Tlaxcala",
+        "estado": "Tlaxcala",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Demo",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria en Sistemas"
+        ]
+    },
+    {
+        "nombre": "Universidad Hipocrates",
+        "ciudad": "Acapulco",
+        "estado": "Guerrero",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Odontologia",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Iberoamericana Ciudad de Mexico",
+        "ciudad": "Ciudad de Mexico",
+        "estado": "Ciudad de Mexico",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad Iberoamericana Leon",
+        "ciudad": "Leon",
+        "estado": "Guanajuato",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Iberoamericana Puebla",
+        "ciudad": "Puebla",
+        "estado": "Puebla",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Interamericana para el Desarrollo Campus Zacatecas",
+        "ciudad": "Zacatecas",
+        "estado": "Zacatecas",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad Internacional",
+        "ciudad": "Cuernavaca",
+        "estado": "Morelos",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Juarez Autonoma de Tabasco",
+        "ciudad": "Villahermosa",
+        "estado": "Tabasco",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Juarez del Estado de Durango",
+        "ciudad": "Durango",
+        "estado": "Durango",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Veterinaria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Kino",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Bajio",
+        "ciudad": "Leon",
+        "estado": "Guanajuato",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Cancun",
+        "ciudad": "Cancun",
+        "estado": "Quintana Roo",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Chihuahua",
+        "ciudad": "Chihuahua",
+        "estado": "Chihuahua",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Cuernavaca",
+        "ciudad": "Cuernavaca",
+        "estado": "Morelos",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Laguna Durango",
+        "ciudad": "Durango",
+        "estado": "Durango",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Oaxaca",
+        "ciudad": "Oaxaca de Juarez",
+        "estado": "Oaxaca",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Pachuca",
+        "ciudad": "Pachuca",
+        "estado": "Hidalgo",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Saltillo",
+        "ciudad": "Saltillo",
+        "estado": "Coahuila",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad La Salle Victoria",
+        "ciudad": "Ciudad Victoria",
+        "estado": "Tamaulipas",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad Latina de America",
+        "ciudad": "Morelia",
+        "estado": "Michoacan",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Loyola del Pacifico",
+        "ciudad": "Acapulco",
+        "estado": "Guerrero",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Marista de Merida",
+        "ciudad": "Merida",
+        "estado": "Yucatan",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Metropolitana de Tlaxcala",
+        "ciudad": "Tlaxcala",
+        "estado": "Tlaxcala",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Relaciones Internacionales"
+        ]
+    },
+    {
+        "nombre": "Universidad Michoacana de San Nicolas de Hidalgo",
+        "ciudad": "Morelia",
+        "estado": "Michoacan",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Multitecnica Profesional",
+        "ciudad": "Colima",
+        "estado": "Colima",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Finanzas",
+            "Relaciones Internacionales",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Mundial Campus La Paz",
+        "ciudad": "La Paz",
+        "estado": "Baja California Sur",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Comercio Internacional",
+            "Turismo",
+            "Maestria en Desarrollo Sustentable"
+        ]
+    },
+    {
+        "nombre": "Universidad Mundo Maya",
+        "ciudad": "Campeche",
+        "estado": "Campeche",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Comercio Internacional",
+            "Psicologia"
+        ]
+    },
+    {
+        "nombre": "Universidad Mundo Maya",
+        "ciudad": "Villahermosa",
+        "estado": "Tabasco",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad Nacional Autonoma de Mexico",
+        "ciudad": "Ciudad de Mexico",
+        "estado": "Ciudad de Mexico",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Nueva Galicia",
+        "ciudad": "Tepic",
+        "estado": "Nayarit",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Politecnica de Aguascalientes",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria Civil"
+        ]
+    },
+    {
+        "nombre": "Universidad Politecnica de Chiapas",
+        "ciudad": "Tuxtla Gutierrez",
+        "estado": "Chiapas",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria Mecatronica"
+        ]
+    },
+    {
+        "nombre": "Universidad Politecnica de Pachuca",
+        "ciudad": "Pachuca",
+        "estado": "Hidalgo",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Regional del Sureste",
+        "ciudad": "Oaxaca de Juarez",
+        "estado": "Oaxaca",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Salazar",
+        "ciudad": "Tuxtla Gutierrez",
+        "estado": "Chiapas",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Comercio Internacional"
+        ]
+    },
+    {
+        "nombre": "Universidad San Miguel",
+        "ciudad": "Culiacan",
+        "estado": "Sinaloa",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad Tangamanga",
+        "ciudad": "San Luis Potosi",
+        "estado": "San Luis Potosi",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad TecMilenio Campus Toluca",
+        "ciudad": "Toluca",
+        "estado": "Estado de Mexico",
+        "tipo": "Privada",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Acapulco",
+        "ciudad": "Acapulco",
+        "estado": "Guerrero",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Aguascalientes",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Campeche",
+        "ciudad": "Campeche",
+        "estado": "Campeche",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Industrial"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Cancun",
+        "ciudad": "Cancun",
+        "estado": "Quintana Roo",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Chihuahua",
+        "ciudad": "Chihuahua",
+        "estado": "Chihuahua",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Coahuila",
+        "ciudad": "Saltillo",
+        "estado": "Coahuila",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Culiacan",
+        "ciudad": "Culiacan",
+        "estado": "Sinaloa",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Durango",
+        "ciudad": "Durango",
+        "estado": "Durango",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Hermosillo",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Jalisco",
+        "ciudad": "Guadalajara",
+        "estado": "Jalisco",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de La Paz",
+        "ciudad": "La Paz",
+        "estado": "Baja California Sur",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Turismo"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de la Zona Metropolitana del Valle de Mexico",
+        "ciudad": "Pachuca",
+        "estado": "Hidalgo",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Leon",
+        "ciudad": "Leon",
+        "estado": "Guanajuato",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de los Valles Centrales de Oaxaca",
+        "ciudad": "Oaxaca de Juarez",
+        "estado": "Oaxaca",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Manzanillo",
+        "ciudad": "Colima",
+        "estado": "Colima",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Morelia",
+        "ciudad": "Morelia",
+        "estado": "Michoacan",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Nayarit",
+        "ciudad": "Tepic",
+        "estado": "Nayarit",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Nuevo Leon",
+        "ciudad": "Monterrey",
+        "estado": "Nuevo Leon",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Puebla",
+        "ciudad": "Puebla",
+        "estado": "Puebla",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Queretaro",
+        "ciudad": "Queretaro",
+        "estado": "Queretaro",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de San Luis Potosi",
+        "ciudad": "San Luis Potosi",
+        "estado": "San Luis Potosi",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Tabasco",
+        "ciudad": "Villahermosa",
+        "estado": "Tabasco",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Tamaulipas Norte",
+        "ciudad": "Ciudad Victoria",
+        "estado": "Tamaulipas",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Tijuana",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria en Sistemas Computacionales",
+            "Ingenieria Mecatronica"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica de Tlaxcala",
+        "ciudad": "Tlaxcala",
+        "estado": "Tlaxcala",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica del Centro de Veracruz",
+        "ciudad": "Xalapa",
+        "estado": "Veracruz",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica del Estado de Zacatecas",
+        "ciudad": "Zacatecas",
+        "estado": "Zacatecas",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica del Valle de Toluca",
+        "ciudad": "Toluca",
+        "estado": "Estado de Mexico",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica Emiliano Zapata del Estado de Morelos",
+        "ciudad": "Cuernavaca",
+        "estado": "Morelos",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnologica Metropolitana",
+        "ciudad": "Merida",
+        "estado": "Yucatan",
+        "tipo": "Publica",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Ingenieria Industrial",
+            "Turismo",
+            "Ingenieria en Software",
+            "Ingenieria en Tecnologias de la Informacion",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Vasco de Quiroga",
+        "ciudad": "Morelia",
+        "estado": "Michoacan",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Veracruzana",
+        "ciudad": "Xalapa",
+        "estado": "Veracruz",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Ingenieria Civil",
+            "Derecho",
+            "Medicina",
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Vizcaya de las Americas Colima",
+        "ciudad": "Colima",
+        "estado": "Colima",
+        "tipo": "Privada",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Odontologia",
+            "Marketing"
+        ]
+    },
+    {
+        "nombre": "Universidad Vizcaya de las Americas Durango",
+        "ciudad": "Durango",
+        "estado": "Durango",
+        "tipo": "Privada",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Odontologia",
+            "Marketing",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Vizcaya de las Americas Saltillo",
+        "ciudad": "Saltillo",
+        "estado": "Coahuila",
+        "tipo": "Privada",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Enfermeria",
+            "Odontologia",
+            "Marketing",
+            "Nutricion"
+        ]
+    },
+    {
+        "nombre": "Universidad Vizcaya de las Americas Tepic",
+        "ciudad": "Tepic",
+        "estado": "Nayarit",
+        "tipo": "Privada",
+        "modalidad": "Cuatrimestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Marketing",
+            "Finanzas",
+            "Ciencias de la Comunicacion"
+        ]
+    },
+    {
+        "nombre": "Universidad Xochicalco Campus Tijuana",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Derecho",
+            "Comercio Internacional",
+            "Psicologia"
+        ]
+    }
+]
