@@ -38,16 +38,6 @@
         ]
     },
     {
-        "nombre": "huNIDD",
-        "ciudad": "Aguascalientes",
-        "estado": "Aguascalientes",
-        "tipo": "Publica",
-        "modalidad": "Semestral",
-        "carreras": [
-            "Ciencias Ambientales"
-        ]
-    },
-    {
         "nombre": "Instituto Campechano",
         "ciudad": "Campeche",
         "estado": "Campeche",
