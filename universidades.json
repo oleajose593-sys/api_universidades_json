@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Aunid",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Biologia Marina"
+        ]
+    },
+    {
         "nombre": "Benemerita Universidad Autonoma de Puebla",
         "ciudad": "Puebla",
         "estado": "Puebla",
@@ -35,6 +45,18 @@
         "carreras": [
             "Administracion de Empresas",
             "Turismo"
+        ]
+    },
+    {
+        "nombre": "ceteg",
+        "ciudad": "Tijuana",
+        "estado": "Aguascalientes",
+        "tipo": "Publica",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Biologia Marina",
+            "Ciencias Ambientales"
         ]
     },
     {
@@ -935,6 +957,17 @@
         ]
     },
     {
+        "nombre": "UNIVERSIDAD CONTINENTAL",
+        "ciudad": "Aguascalientes",
+        "estado": "Aguascalientes",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Arquitectura"
+        ]
+    },
+    {
         "nombre": "Universidad Cuauhtemoc Aguascalientes",
         "ciudad": "Aguascalientes",
         "estado": "Aguascalientes",
@@ -1566,18 +1599,6 @@
     },
     {
         "nombre": "Universidad Mundo Maya",
-        "ciudad": "Campeche",
-        "estado": "Campeche",
-        "tipo": "Privada",
-        "modalidad": "Semestral",
-        "carreras": [
-            "Administracion de Empresas",
-            "Comercio Internacional",
-            "Psicologia"
-        ]
-    },
-    {
-        "nombre": "Universidad Mundo Maya",
         "ciudad": "Villahermosa",
         "estado": "Tabasco",
         "tipo": "Privada",
@@ -1587,6 +1608,18 @@
             "Administracion de Empresas",
             "Marketing",
             "Finanzas"
+        ]
+    },
+    {
+        "nombre": "Universidad Mundo Maya",
+        "ciudad": "Campeche",
+        "estado": "Campeche",
+        "tipo": "Privada",
+        "modalidad": "Semestral",
+        "carreras": [
+            "Administracion de Empresas",
+            "Comercio Internacional",
+            "Psicologia"
         ]
     },
     {
